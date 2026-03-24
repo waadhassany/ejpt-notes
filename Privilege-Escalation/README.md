@@ -8,7 +8,7 @@ Privilege escalation is the process of gaining higher access or permissions on a
 
 ## Basic Enumeration
 
-```bash id="x3p8k1"
+```bash
 whoami
 id
 ```
@@ -19,7 +19,7 @@ Check current user and privileges.
 
 ## Check SUID Files
 
-```bash id="f6n2v4"
+```bash
 find / -perm -4000 2>/dev/null
 ```
 
@@ -29,7 +29,7 @@ Find files with SUID permission.
 
 ## Check Cron Jobs
 
-```bash id="k7w5t2"
+```bash
 crontab -l
 ls -la /etc/cron*
 ```
@@ -40,7 +40,7 @@ Look for scheduled tasks that can be exploited.
 
 ## Check Writable Files
 
-```bash id="q9m3z8"
+```bash
 find / -writable 2>/dev/null
 ```
 
@@ -50,7 +50,7 @@ Find files with write permissions.
 
 ## Linux Privilege Escalation Tools
 
-```bash id="b2c7x6"
+```bash
 linpeas.sh
 ```
 
@@ -60,7 +60,7 @@ Automated script for finding vulnerabilities.
 
 ## Windows Privilege Escalation Tools
 
-```bash id="z4n1l9"
+```bash
 PowerUp.ps1
 ```
 
