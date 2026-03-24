@@ -22,8 +22,8 @@ I created this repository to organize what I learned during labs and practice.
 
 ## Certifications
 
-- eJPT (Junior Penetration Tester) — Completed
-https://certs.ine.com/6abacfe7-ad72-4978-bb22-6e42b627fafb#acc.rduwMlFN
+- eJPT (Junior Penetration Tester) — Completed  
+  [View Certificate] https://certs.ine.com/6abacfe7-ad72-4978-bb22-6e42b627fafb#acc.rduwMlFN
 
 ---
 
