@@ -23,7 +23,7 @@ I created this repository to organize what I learned during labs and practice.
 ## Certifications
 
 - eJPT (Junior Penetration Tester) — Completed
-<img width="1259" height="977" alt="image" src="https://github.com/user-attachments/assets/a8f1b170-5ecd-4132-a81e-272d53ebb34b" />
+https://certs.ine.com/6abacfe7-ad72-4978-bb22-6e42b627fafb#acc.rduwMlFN
 
 ---
 
